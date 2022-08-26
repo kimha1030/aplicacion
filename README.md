@@ -16,6 +16,6 @@ Cuenta con registro de usuarios, login, creación de actividades y gestión de t
 
 ## Instalación
 
-1- Clonar proyecto usando git clone https://github.com/kimha1030/aplicacion.git
-2- Importar la base de datos activities (directorio: config)
-3- Configurar las credenciales y puerto en el archivo db.php (directorio: config)
+1. Clonar proyecto usando git clone https://github.com/kimha1030/aplicacion.git
+2. Importar la base de datos activities (directorio: config)
+3. Configurar las credenciales y puerto en el archivo db.php (directorio: config)
